@@ -6,8 +6,8 @@ Sum-O-Primes
 * Hint
     * I love squares :)
 * Description
-    * [gen.py](Sum-O-Primes/gen.py)
-    * [output.txt](Sum-O-Prims/output.txt)
+    * [gen.py](gen.py)
+    * [output.txt](output.txt)
 
 ## Start 
 In the `output.txt` and `gen.py` file, we will have three variables x, n, c and e <br>
