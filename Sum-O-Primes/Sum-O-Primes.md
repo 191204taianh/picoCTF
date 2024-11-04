@@ -3,9 +3,11 @@ Sum-O-Primes
 
 ## Info
 * Difficulty: Hard
+* Category: Cryptogrphy
 * Hint
     * I love squares :)
 * Description
+    * We have so much faith in RSA we give you not just the product of the primes, but their sum as well!
     * [gen.py](gen.py)
     * [output.txt](output.txt)
 
@@ -23,7 +25,7 @@ x = p + q<br>
 --> n = -q2 + x * q<br>
 --> -q<sup>2</sup> + x * q - n = 0<br>
 --> Using delta to solve this equations to get q and p<br>
-<br>Using: [calc.py](/Sum-O-Primes/calc.py)<br> 
+<br>Using: [calc.py](calc.py)<br> 
 ```
 from gmpy2 import isqrt
 from Crypto.Util.number import long_to_bytes
