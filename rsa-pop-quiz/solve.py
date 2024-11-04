@@ -3,13 +3,13 @@ from sympy import mod_inverse
 #1
 q = 60413
 p = 76753
-result = p*q
+n = p*q
 print("#1 Result: n = p*q = " + str(result))
 
 #2
 p = 54269
 n = 5051846941
-result = n/p
+q = n/p
 print("#2 Result: q = n/p= " + str(result))
 
 #3
