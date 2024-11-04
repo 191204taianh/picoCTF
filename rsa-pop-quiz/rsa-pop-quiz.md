@@ -179,5 +179,5 @@ print(f"Plaintext (hex): {hex_plaintext}")
 print(f"Plaintext (ASCII): {ascii_plaintext}")
 
 ```
---> Flag: `picoCTF{pl33z_n0_g1v3_c0ngru3nc3_0f_5qu4r35_3921def5}`
+--> Flag: `picoCTF{wA8_th4t$_ill3aGal..ode01e4bb}`
 
